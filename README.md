@@ -44,7 +44,7 @@
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Minseos&layout=compact)  
-![Minseo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Minseos&show_icons=true&theme=radical&hide_rank=true&hide=stars,prs,issues,contribs)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Minseos&layout=compact)
+![Minseo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Minseos&show_icons=true&theme=default&hide_rank=true&hide=stars,prs,issues,contribs)
 
 
