@@ -6,9 +6,14 @@
 
 
 ### Passionate Data Analyst with a growing interest in Product Management!
+##
 안녕하세요, 데이터를 통해 인사이트를 찾아내고 새로운 도전을 즐기는 데이터 분석가 서민서입니다!
+<br>
+<br>
+
 
 ### SKILLS
+##
 **Langs and Frameworks**  
 ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pytorch](https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -42,8 +47,8 @@
 ![Seaborn](https://img.shields.io/badge/seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 
-
-
+<br><br>
+##
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Minseos&layout=compact)
 ![Minseo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Minseos&show_icons=true&theme=default&hide_rank=true&hide=stars,prs,issues,contribs)
 
