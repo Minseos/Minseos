@@ -9,7 +9,7 @@
 안녕하세요, 데이터를 통해 인사이트를 찾아내고 새로운 도전을 즐기는 데이터 분석가 서민서입니다!
 
 ### SKILLS
-** Langs and Frameworks**  
+**Langs and Frameworks**  
 ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pytorch](https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -24,12 +24,12 @@
 ![JAVA](https://img.shields.io/badge/JAVA-000000?style=for-the-badge&logo=openjdk&logoColor=white)
 
 
-** interests **  
+**interests**  
 ![hugging face](https://img.shields.io/badge/huggingface-FFD21E?style=for-the-badge&logo=huggingface&logoColor=white)
 
 
 
-** Infra/Tools**  
+**Infra/Tools**  
 ![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GIT Hub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/googlecolab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)<br>
