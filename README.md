@@ -42,6 +42,8 @@
 ![Seaborn](https://img.shields.io/badge/seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Minseos&layout=compact)  
 ![Minseo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Minseos&show_icons=true&theme=radical&hide_rank=true&hide=stars,prs,issues,contribs)
 
