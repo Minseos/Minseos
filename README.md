@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![CapsuleRender](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi,%20I'm%20Minseo&section=header&reversal=false&fontAlign=50)
+
 <!--
 **Minseos/Minseos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
